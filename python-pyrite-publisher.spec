@@ -1,6 +1,6 @@
 %define oname pyrite-publisher
 %define version 2.1.1
-%define release 2mdk
+%define release %mkrel 2
 
 Summary: Content Creation Tools for Palm Computing Platform Users
 Name: python-%{oname}
