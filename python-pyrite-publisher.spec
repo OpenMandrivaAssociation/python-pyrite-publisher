@@ -10,6 +10,7 @@ Source0: %{oname}-%{version}.tar.bz2
 License: GPL
 Group: Development/Python
 URL: http://www.pyrite.org/
+BuildRoot: %{_tmppath}/%{name}-buildroot
 BuildRequires: python libpython-devel >= %{py_ver}
 Requires: python
 Obsoletes: txt2pdbdoc
