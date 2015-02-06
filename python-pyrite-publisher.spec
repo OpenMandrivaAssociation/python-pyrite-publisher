@@ -3,7 +3,7 @@
 Summary: Content Creation Tools for Palm Computing Platform Users
 Name: python-%{oname}
 Version: 2.1.1
-Release: 7
+Release: 8
 Source0: %{oname}-%{version}.tar.bz2
 License: GPL
 Group: Development/Python
