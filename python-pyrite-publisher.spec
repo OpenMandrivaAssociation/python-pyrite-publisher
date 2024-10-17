@@ -7,7 +7,7 @@ Release: 8
 Source0: %{oname}-%{version}.tar.bz2
 License: GPL
 Group: Development/Python
-URL: http://www.pyrite.org/
+URL: https://www.pyrite.org/
 BuildRequires: python
 BuildRequires: python-devel
 Requires: python
